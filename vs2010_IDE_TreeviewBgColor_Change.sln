@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vs10_IDE_TreeviewBgColor_Change", "vs10_IDE_TreeviewBgColor_Change\vs10_IDE_TreeviewBgColor_Change.vcxproj", "{9A14275B-7B4F-4198-BC24-E8DB3445C7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A14275B-7B4F-4198-BC24-E8DB3445C7CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A14275B-7B4F-4198-BC24-E8DB3445C7CA}.Debug|Win32.Build.0 = Debug|Win32
+		{9A14275B-7B4F-4198-BC24-E8DB3445C7CA}.Release|Win32.ActiveCfg = Release|Win32
+		{9A14275B-7B4F-4198-BC24-E8DB3445C7CA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
